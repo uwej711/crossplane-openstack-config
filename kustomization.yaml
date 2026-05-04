@@ -1,0 +1,8 @@
+kind: Kustomization
+
+namespace: crossplane-system
+
+resources:
+  - provider.yaml
+  - config.yaml
+  - secret.yaml
