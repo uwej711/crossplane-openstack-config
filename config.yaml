@@ -1,5 +1,5 @@
 ---
-apiVersion: openstack.crossplane.io/v1beta1
+apiVersion: openstack.m.crossplane.io/v1beta1
 kind: ClusterProviderConfig
 metadata:
   name: provider-openstack-config
